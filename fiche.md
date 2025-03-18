@@ -161,16 +161,4 @@ curve(dnorm(x, mean = 0, sd = 1/sqrt(10)), col = "red", add = TRUE)
 | Résumé des données | `summary(data)` |
 | Table de contingence | `table(data$Sex)` |
 
----
 
-## **📝 Stratégie d’examen 🚀**
-
-1️⃣ **Toujours tester un petit échantillon** avant de lancer une grosse simulation.  
-2️⃣ **Lire attentivement l'énoncé** pour savoir quelle loi utiliser.  
-3️⃣ **Vérifier les résultats théoriques avec des formules** (espérance, variance, probas).  
-4️⃣ **Savoir générer et visualiser les distributions** (histogramme + courbe théorique).  
-5️⃣ **Ne pas paniquer !** Tu peux toujours faire `?fonction` dans R pour voir l’aide.  
-
----
-
-Si tu veux un **exercice type examen avec correction**, dis-moi ! 😊
